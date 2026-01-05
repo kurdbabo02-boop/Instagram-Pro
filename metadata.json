@@ -1,0 +1,8 @@
+{
+  "name": "Instagram Pro 2026",
+  "description": "A high-fidelity Instagram clone featuring a modern UI, responsive design, AI-generated captions, and a functional feed.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
